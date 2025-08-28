@@ -44,7 +44,7 @@ One of the biggest challenges I have faced while doing this project was learning
 ## 🔮 Future Improvements
 If I had more time I would have added:
 - A proper pause menu
-- A healthbar
+- A healthbar for the adventurer
 - More branching to the story
 - Objects player has to move through or to pick up
 
