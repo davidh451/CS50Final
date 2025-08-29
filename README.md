@@ -66,7 +66,7 @@ Alternative (if the above does not work): python3 -m pip install pygame
 If no error messages appear and you see "Hello from the pygame community," Pygame has been successfully installed. You can then exit the Python shell by typing exit().
 
 ## 🎥 Demo  
-Here is a short demo of my project: [YouTube Link](https://youtube.com/...)  
+Here is a short demo of my project: [YouTube Link](https://youtu.be/mBotwlQGMa4)  
 
 ## 🙏 Acknowledgments  
 - Thanks to the CS50 staff for this incredible course and the chance to build this project.  
